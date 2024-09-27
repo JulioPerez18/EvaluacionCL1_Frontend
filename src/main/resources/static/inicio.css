@@ -1,0 +1,31 @@
+body {
+    background-color: #f7f9fc;
+}
+.search-form {
+    max-width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.form-control {
+    border-radius: 50px;
+    padding: 15px;
+    font-size: 1rem;
+    box-shadow: none;
+}
+.btn-primary {
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.container{
+margin-top: 150px;
+}
